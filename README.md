@@ -1,1 +1,1 @@
-# Vibration_classification_dataset_Wonho_Jung
+# Vibration diagnosis on the dataset from Wonho Jung et al
